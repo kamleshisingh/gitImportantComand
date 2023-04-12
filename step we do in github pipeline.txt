@@ -43,4 +43,6 @@ step 10: git checkout branchName :> this comand will switch the branch
 	// how to create new branch 
 step 11: git checkout -b " branch name"  :> this comand will create a new branch for you  
 
-step 12: git status 
+step 12: git push origin "branchName" :> this is for sending our local branch to remote repository
+
+ 
