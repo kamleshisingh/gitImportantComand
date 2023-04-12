@@ -1,3 +1,7 @@
+what is gitHub?
+	github is a verson control system used in  many tech comoany
+	With the help of git we maintain the cicd pipeline in comapanies.
+
 step we do in github pipeline
 
 before doing these step we have to open the gitbash first
