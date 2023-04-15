@@ -1,0 +1,52 @@
+what is gitHub?
+	github is a verson control system used in  many tech comoany
+	With the help of git we maintain the cicd pipeline in comapanies.
+
+step we do in github pipeline
+
+before doing these step we have to open the gitbash first
+
+
+Step 1 :	 git clone https address of git hub \
+
+		that project in remote is loaded into your local.
+
+Step 2 : 	get status 
+		then do some change in the local project
+	again repead the step 2.
+
+Step 3 : 	git add (file where we edit something which we clone )
+		Then again check the git status and see which file we wan to comit
+		it views in green color
+
+Step 4  : 	git commit -m " message what we edit in the cloned file "
+
+		those file we add are ready for push or save in the local
+		
+Step 5 : 	git push origin master/BranchName
+
+		those file send to the remote for reviews
+Step 6 : 	git stash
+	 	// use for unchange the preview change if you write anything wrong in the project 
+		this camand will get you the previous change //
+// now check how to take pull req.
+STep 7 :	git pull origin brancName		
+		this comand is use for taking a pull request from the repository 
+		means whatever the update is done in the remot repossitory  that will come to my local system cloned project
+
+Step 8 : 	git branch :> 
+			this comand will tell which branch you are in current time
+
+Step 9 : 	git branch -a :> 
+			this comand will show you all the branch in the remote
+
+Step 10: 	git checkout branchName :> 
+			this comand will switch the branch 
+
+	// how to create new branch 
+Step 11: 	git checkout -b " branch name"  :> 
+			this comand will create a new branch for you  
+
+Step 12: 	git push origin "branchName" :> 
+			this is for sending our local branch to remote repository
+Step 13: 	
