@@ -49,4 +49,6 @@ Step 11: 	git checkout -b " branch name"  :>
 
 Step 12: 	git push origin "branchName" :> 
 			this is for sending our local branch to remote repository
-Step 13: 	
+Step 13: 	git remote add origin <remote-repo-url>
+			When we have to upload our local update to remote repositoyt
+Step 14:	
